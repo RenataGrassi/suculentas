@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
 
 .banner {
   width: 100%;
@@ -12,8 +14,9 @@
   margin: 0;
   color: white;
   text-shadow: 1px 2px 3px rgba(0,0,0.2,0.2);
-  font-size: 75px;
+  font-size: 120px;
   font-weight: bold;
+  font-family: Amatic SC;
 }
 
 .banner p {
@@ -25,7 +28,7 @@
 
 h2 {
   color: #3A9A4F;
-  font-family: Kalam;
+  font-family: Amatic SC;
   text-shadow: 1px 2px 3px rgba(0,0,0.2,0.2);
   font-size: 55px;
   text-align: left;
